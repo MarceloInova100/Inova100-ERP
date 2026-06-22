@@ -16,10 +16,6 @@
 
 #### Desenvolver telas Angular para operações administrativas (cadastros, financeiro, permissões).
 
-
-#### Desenvolver telas Angular para operações administrativas (cadastros, financeiro, permissões).
-
-
 ## 3. Integrações
 #### Conectar APIs externas (CEPEA, clima, cotação de moedas).
 #### Configurar envio de mensagens via WhatsApp (Twilio/Meta), Telegram Bot API e SMTP para e-mails.
