@@ -7,7 +7,7 @@
 #### Criar banco de dados PostgreSQL com tabelas para clientes, fornecedores, produtos, funcionários, financeiro e leads.
 
 ## 2. Desenvolvimento
-#### Implementar backend FastAPI com rotas de cadastros, financeiro, leads e relatórios.
+#### Implementar backend C# com rotas de cadastros, financeiro, leads e relatórios.
 #### Criar frontend Angular para dashboards e relatórios interativos.
 #### Desenvolver telas Angular para operações administrativas (cadastros, financeiro, permissões).
 
