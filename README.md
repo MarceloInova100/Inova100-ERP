@@ -9,7 +9,7 @@
 ## 2. Desenvolvimento
 #### Implementar backend C# com rotas de cadastros, financeiro, leads e relatórios.
 #### Criar frontend Angular para dashboards e relatórios interativos.
-#### Desenvolver telas CustomTkinter para operações administrativas (cadastros, financeiro, permissões).
+#### Desenvolver telas Angular para operações administrativas (cadastros, financeiro, permissões).
 
 ## 3. Integrações
 #### Conectar APIs externas (CEPEA, clima, cotação de moedas).
