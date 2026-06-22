@@ -1,6 +1,6 @@
-# MQS ERP - Agronegócio
+# Inova100 ERP - Agronegócio
 
-🚀 Roadmap de Implantação – MQS CRM Agro
+🚀 Roadmap de Implantação – Inova100 CRM Agro
 ## 1. Preparação
 #### Definir ambiente de hospedagem (AWS, Azure ou servidor local com Docker).
 #### Configurar repositório GitHub com branches (main, dev).
@@ -8,8 +8,8 @@
 
 ## 2. Desenvolvimento
 #### Implementar backend FastAPI com rotas de cadastros, financeiro, leads e relatórios.
-#### Criar frontend Streamlit para dashboards e relatórios interativos.
-#### Desenvolver telas CustomTkinter para operações administrativas (cadastros, financeiro, permissões).
+#### Criar frontend Angular para dashboards e relatórios interativos.
+#### Desenvolver telas Angular para operações administrativas (cadastros, financeiro, permissões).
 
 ## 3. Integrações
 #### Conectar APIs externas (CEPEA, clima, cotação de moedas).
@@ -17,8 +17,7 @@
 #### Implementar monitoramento com Prometheus e dashboards no Grafana.
 
 ## 4. Testes
-#### Testes unitários e de integração (Pytest).
-#### Testes de carga e desempenho (locust.io ou JMeter).
+#### Testes unitários e de integração (NUnit).
 #### Validação de permissões e níveis de acesso (Gestor, Vendedor, Comprador, Financeiro).
 
 ## 5. Deploy
