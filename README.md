@@ -1,15 +1,27 @@
+<<<<<<< HEAD
 # Inova100 ERP - Agronegócio
 
 🚀 Roadmap de Implantação – Inova100 CRM Agro
+=======
+# Inova100 - Agronegócio
+
+🚀 Roadmap de Implantação – Inova100 ERP Agro
+>>>>>>> ef9a6592d91dd5523a270d0e4dda6e5eaa92c60e
 ## 1. Preparação
 #### Definir ambiente de hospedagem (AWS, Azure ou servidor local com Docker).
 #### Configurar repositório GitHub com branches (main, dev).
 #### Criar banco de dados PostgreSQL com tabelas para clientes, fornecedores, produtos, funcionários, financeiro e leads.
 
 ## 2. Desenvolvimento
+<<<<<<< HEAD
 #### Implementar backend FastAPI com rotas de cadastros, financeiro, leads e relatórios.
 #### Criar frontend Angular para dashboards e relatórios interativos.
 #### Desenvolver telas Angular para operações administrativas (cadastros, financeiro, permissões).
+=======
+#### Implementar backend C# com rotas de cadastros, financeiro, leads e relatórios.
+#### Criar frontend Angular para dashboards e relatórios interativos.
+#### Desenvolver telas CustomTkinter para operações administrativas (cadastros, financeiro, permissões).
+>>>>>>> ef9a6592d91dd5523a270d0e4dda6e5eaa92c60e
 
 ## 3. Integrações
 #### Conectar APIs externas (CEPEA, clima, cotação de moedas).
